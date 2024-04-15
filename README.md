@@ -17,3 +17,12 @@ Github specific files for GHA code.
 
 ### terraform folder
 Boiler plate structure for the terraform
+
+### take home  
+## [Observability](./OBSERVABILITY.md)
+## [CiCd](./CICD.md)
+## [IaC](IAC.md)
+
+
+
+
